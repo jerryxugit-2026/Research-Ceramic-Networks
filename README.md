@@ -1,11 +1,11 @@
-# Ziyang-Ceramic-Research
+# Research-Ceramic-Networks
 
 What actually changed between Ming and Qing ceramics — measured, not argued.
 
 *Frontiers in Art Research* · Vol. 8, Issue 2, pp. 65–74 · 2026
 DOI [10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211) · Francis Academic Press, UK · sole author
 
-**[▶ The interactive version — a 5-dimension lens over the objects](https://jerryxugit-2026.github.io/Ziyang-Ceramic-Research/)**
+**[▶ The interactive version — a 5-dimension lens over the objects](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)**
 
 ---
 
