@@ -95,6 +95,10 @@ only the ink changes. Which is the argument.*
 > five-dimensional diagnosis. *Frontiers in Art Research, 8*(2), 65–74.
 > https://doi.org/10.25236/FAR.2026.080211
 
+*Dates, plainly: this repository was assembled in June–July 2026, after
+publication. The scoring rubric and the 148-object dataset took shape
+across 2024–2025. Commit dates mark the archiving, not the research.*
+
 ---
 
 *One of four directions on [my profile](https://github.com/jerryxugit-2026) —
