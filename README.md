@@ -97,7 +97,7 @@ only the ink changes. Which is the argument.*
 
 *Dates, plainly: this repository was assembled in June–July 2026, after
 publication. The scoring rubric and the 148-object dataset took shape
-across 2024–2025. Commit dates mark the archiving, not the research.*
+in 2025. Commit dates mark the archiving, not the research.*
 
 ---
 
