@@ -2,8 +2,13 @@
 
 What actually changed between Ming and Qing ceramics — measured, not argued.
 
-*Frontiers in Art Research* · Vol. 8, Issue 2, pp. 65–74 · 2026
-DOI [10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211) · Francis Academic Press, UK · sole author
+Ziyang Xu. Network Reorganization of Cross-Regional Cultural Integration in
+Ming-Qing Ceramics: A Three-Region Comparison and Five-Dimensional Diagnosis.
+Frontiers in Art Research (2026), Vol. 8, Issue 2: 65-74.
+[https://doi.org/10.25236/FAR.2026.080211](https://doi.org/10.25236/FAR.2026.080211)
+· [Francis Press — journal page →](https://francis-press.com/papers/20940#location)
+
+*Francis Academic Press, UK · sole author*
 
 **[▶ The interactive version — a 5-dimension lens over the objects](https://jerryxugit-2026.github.io/Research-Ceramic-Networks/)**
 
@@ -90,10 +95,12 @@ only the ink changes. Which is the argument.*
 
 ## The paper
 
-> Xu, Z. (2026). Network reorganization of cross-regional cultural
-> integration in Ming-Qing ceramics: A three-region comparison and
-> five-dimensional diagnosis. *Frontiers in Art Research, 8*(2), 65–74.
+> Ziyang Xu. Network Reorganization of Cross-Regional Cultural Integration in
+> Ming-Qing Ceramics: A Three-Region Comparison and Five-Dimensional Diagnosis.
+> Frontiers in Art Research (2026), Vol. 8, Issue 2: 65-74.
 > https://doi.org/10.25236/FAR.2026.080211
+>
+> Journal page: https://francis-press.com/papers/20940#location
 
 *Dates, plainly: this repository was assembled in June–July 2026, after
 publication. The scoring rubric and the 148-object dataset took shape
