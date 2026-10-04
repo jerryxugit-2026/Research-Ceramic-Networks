@@ -25,7 +25,7 @@ out. I wanted a way to lose the argument if I was wrong.
 
 ## What I did
 
-148 ceramic objects across three regions (China, Middle East/West Asia,
+110 ceramic objects across three regions (China, Middle East/West Asia,
 Europe), three circulation roles (local, export, import) and two dynasties.
 Every object is scored **0 / 1 / 2 on five dimensions — theme, style, form,
 pattern, colour — against all three regional standards at once**, so a
@@ -103,7 +103,7 @@ only the ink changes. Which is the argument.*
 > Journal page: https://francis-press.com/papers/20940#location
 
 *Dates, plainly: this repository was assembled in June–July 2026, after
-publication. The scoring rubric and the 148-object dataset took shape
+publication. The scoring rubric and the 110-object dataset took shape
 in 2025. Commit dates mark the archiving, not the research.*
 
 ---
